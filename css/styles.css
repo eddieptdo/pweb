@@ -12,11 +12,11 @@ header{
   font-size: 14px;
   color:#616161;
 }
-header a{
+ a{
   color:#AA1717;
   text-decoration: none;
 }
-header a:hover{
+ a:hover{
   color:#212121;
 }
 details summary{
